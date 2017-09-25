@@ -1,0 +1,18 @@
+{
+	"items": [{
+		"FeedbackValue": "Excellent",
+		"CustomerCount": "20"
+	}, {
+		"FeedbackValue": "Good",
+		"CustomerCount": "30"
+	}, {
+		"FeedbackValue": "Average",
+		"CustomerCount": "15"
+	}, {
+		"FeedbackValue": "Poor",
+		"CustomerCount": "20"
+	}, {
+		"FeedbackValue": "Pathetic",
+		"CustomerCount": "10"
+	}]
+}
